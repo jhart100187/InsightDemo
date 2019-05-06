@@ -8,9 +8,6 @@ and will use said data in conjunction with a machine learning library in order t
 This repository is just a demo branch of the Insight project. This demo branch only shows the foundation work that I have implemented for the Inisght project,
 as that is all that I have coded so far for the overall project.
 
-### Disclaimer:
-
-
 ### Assemblies:
     -Insight.API: Assembly containing the logic for creating and starting the web service
 
