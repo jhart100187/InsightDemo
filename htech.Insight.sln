@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Insight.API", "Insight.API\Insight.API.csproj", "{DE095F4D-CCFA-46FD-AB35-AF33BEAF2ED9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Insight.Tests", "Insight.Tests\Insight.Tests.csproj", "{03D9103C-633B-454F-9A68-89E2F5406F88}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Insight.Common", "Insight.Common\Insight.Common.csproj", "{12B6CB4D-5AEE-4A68-B502-E76721772299}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Insight.Autofac", "Insight.Autofac\Insight.Autofac.csproj", "{9E649850-C43A-426A-8C74-1A187CD36AE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insight.Authentication", "Insight.Authentication\Insight.Authentication.csproj", "{86B1C837-0F06-4454-BDF1-1A87947538A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insight.Clients", "Insight.Clients\Insight.Clients.csproj", "{07231618-EF05-4E35-96CB-A5D081CF973C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE095F4D-CCFA-46FD-AB35-AF33BEAF2ED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE095F4D-CCFA-46FD-AB35-AF33BEAF2ED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE095F4D-CCFA-46FD-AB35-AF33BEAF2ED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE095F4D-CCFA-46FD-AB35-AF33BEAF2ED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03D9103C-633B-454F-9A68-89E2F5406F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03D9103C-633B-454F-9A68-89E2F5406F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03D9103C-633B-454F-9A68-89E2F5406F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03D9103C-633B-454F-9A68-89E2F5406F88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B6CB4D-5AEE-4A68-B502-E76721772299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B6CB4D-5AEE-4A68-B502-E76721772299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B6CB4D-5AEE-4A68-B502-E76721772299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B6CB4D-5AEE-4A68-B502-E76721772299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E649850-C43A-426A-8C74-1A187CD36AE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E649850-C43A-426A-8C74-1A187CD36AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E649850-C43A-426A-8C74-1A187CD36AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E649850-C43A-426A-8C74-1A187CD36AE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86B1C837-0F06-4454-BDF1-1A87947538A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B1C837-0F06-4454-BDF1-1A87947538A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86B1C837-0F06-4454-BDF1-1A87947538A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86B1C837-0F06-4454-BDF1-1A87947538A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07231618-EF05-4E35-96CB-A5D081CF973C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07231618-EF05-4E35-96CB-A5D081CF973C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07231618-EF05-4E35-96CB-A5D081CF973C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07231618-EF05-4E35-96CB-A5D081CF973C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {000FC689-4187-4CD6-B80B-145124E27AAF}
+	EndGlobalSection
+EndGlobal
